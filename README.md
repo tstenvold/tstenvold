@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋 I'm Terence Stenvold</h1>
-<h3 align="center">Master of Infomatics Student @LMU</h3>
 
 - 🔭 I’m currently working on [building the best modular wallboxes with ChargeX](https://chargex.de)
 
