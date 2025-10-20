@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋 I'm Terence Stenvold</h1>
 
-- 🔭 I’m currently working on [building the best modular wallboxes with ChargeX](https://chargex.de)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/terencestenvold" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="terencestenvold" height="30" width="40" /></a>
